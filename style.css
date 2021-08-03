@@ -41,7 +41,7 @@
   }
   
   
-  .links a:visited, a:checked, a:active {
+  .links a, a:visited, a:checked, a:active {
     color:#E7E7E7;
   }
   
